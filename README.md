@@ -1,4 +1,6 @@
-A simple Weather App with React JS diplaying weather informations of country,city name and also by using state code or country code.
+## Description
+
+A simple Weather App with React diplaying weather informations of country,city name and also by using state code or country code.
 API used : openweathermap.
 
 ## Available Scripts
