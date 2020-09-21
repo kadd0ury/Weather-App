@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple Weather App with React JS diplaying weather informations of country,city name and also by using state code or country code.
+API used : openweathermap.
 
 ## Available Scripts
 
